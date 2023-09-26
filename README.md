@@ -1,5 +1,10 @@
 # js-projects
 12 Beginner Projects
+Done Projects
+1. Random Color Generator Using JavaScript
+    https://www.youtube.com/watch?v=qQd6X2rb_LU
+
+
 1. Image Search App With JavaScript API
 2. MEME Generator with HTML CSS JavaScript
 3. Build Simple Calculator with JS HTML and CSS
@@ -11,4 +16,3 @@
 9. Image Slider
 10. Learn JavaScript
 11. JS for Beginners
-12. Your first JS Project
