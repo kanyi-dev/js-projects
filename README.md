@@ -1,5 +1,5 @@
 # js-projects
-12 Beginner Projects /n
+12 Beginner Projects
 Done Projects
 1. Random Color Generator Using JavaScript
     https://www.youtube.com/watch?v=qQd6X2rb_LU
