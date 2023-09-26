@@ -1,8 +1,28 @@
-button{
-    background-color: #555555;
-    color: #fff;
-    padding: 15px 32px;
-    font-size: 16px;
+body{
+    margin: 0;
+    padding: 0;
+    background: #367557;
+    font-family: "Montserrat";
+}
+
+.color{
+    margin-top: 300px;
+    text-align: center;
+}
+
+#hex{
+    display: block;
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin: 20px;
+}
+
+.color button{
+    background: none;
+    outline: none;
+    color: white;
+    border: 3px solid white;
     cursor: pointer;
- margin: 40vh 90vh;
+    font-size: 24px;
 }
